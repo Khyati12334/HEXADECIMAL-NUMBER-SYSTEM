@@ -1,0 +1,31 @@
+h1 {
+    color: #0000FF;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+}
+
+
+    .header{
+
+        background-color: #ff8800;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .grid{
+        display:flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+p{
+    text-align: center;
+    font-style: italic;
+}
+
+body{
+    background-color:#8FF67A ;
+}
